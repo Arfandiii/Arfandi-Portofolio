@@ -220,7 +220,7 @@ export const listProyek = [
     nama: "Web Portfolio",
     desk: "Portfolio pribadi interaktif untuk menampilkan proyek, skill, dan pengalaman dengan animasi modern.",
     tools: ["Vite", "TailwindCSS", "React", "Framermotion", "GSAP"],
-    href: "https://vercel.com/ari-arfandis-projects/arfandi-portofolio",
+    href: "https://arfandi-portofolio.vercel.app/",
     dad: "600",
   },
 
