@@ -16,7 +16,7 @@ import Tools7 from "./assets/tools/js.png";
 import Tools8 from "./assets/tools/nodejs.png";
 import Tools9 from "./assets/tools/laravel.png";
 import Tools10 from "./assets/tools/mysql.png";
-import Tools11 from "./assets/tools/Laragon.png";
+import Tools11 from "./assets/tools/laragon.png";
 import Tools12 from "./assets/tools/github.png";
 import Tools13 from "./assets/tools/canva.png";
 import Tools14 from "./assets/tools/figma.png";
